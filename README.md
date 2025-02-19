@@ -1,13 +1,12 @@
  Global Store Analysis - Power BI Report
 
-
-![Image](https://github.com/user-attachments/assets/c9a712ce-e75e-40ba-946d-16c9614d1588)
-
- 
-
- 📌 Overview
+📌 Overview
 
 The Global Store Analysis Power BI report provides valuable insights into global sales performance, customer behavior, and business trends. This interactive dashboard helps businesses make informed, data-driven decisions.
+
+
+ ![Image](https://github.com/user-attachments/assets/a2f1b04a-450a-4ac3-b3b9-70f419cb6e90)
+ 
 
 📂 Data Source
 
@@ -38,6 +37,8 @@ The Global Store Analysis Power BI report provides valuable insights into global
 - Dynamic Visuals : Charts, graphs, and KPIs for instant insights.
 - Drill-Through Capabilities : Dive deeper into sales and regional performance.
 - Customizable Views : Tailored perspectives for different business needs.
+
+  ![Image](https://github.com/user-attachments/assets/c9a712ce-e75e-40ba-946d-16c9614d1588)
 
 
 🛠 How to Use
